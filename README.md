@@ -24,7 +24,7 @@
 
 ## 📊 My GitHub statistics :
 
-![Ton nom d'utilisateur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-nom-d-utilisateur&show_icons=true&theme=dark)
+![emmanuelle-c's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuelle-c&show_icons=true&theme=dark)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emmanuelle-c&theme=dark)
