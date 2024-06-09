@@ -8,7 +8,7 @@
 ## 👨‍💻 You can have a look to my projects :
 
 - **Les Recettes Wild :** https://github.com/emmanuelle-c/Les-recettes-Wild
-- **The Hero Experience :** https://github.com/emmanuelle-c/Les4Fantastiques
+- **The Hero Experience :** https://github.com/emmanuelle-c/The-Hero-Experience
 - **Out :** https://github.com/emmanuelle-c/OUT
 
 ## 📫 Connect with me : 
