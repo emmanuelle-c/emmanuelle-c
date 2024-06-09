@@ -20,6 +20,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelle-c&show_icons=true&locale=en&layout=compact" alt="emmanuelle-c" /></p>
 
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelle-c&layout=compact&theme=dark)
+
 ## 📊 My GitHub statistics :
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelle-c&show_icons=true&locale=en" alt="emmanuelle-c" /></p>
