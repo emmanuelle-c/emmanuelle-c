@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Emmanuelle !</h1>
-<h3 align="center">A passionate FullStack student developer from France.</h3>
+<h1 align="center">Hi there 👋, I'm Emmanuelle !</h1>
+<h3 align="center">A passionate FullStack student developer from France. I'm learning web dev at the Wild Code School since Feb 2024 and looking for a 12 months co-op program in Paris from Sept 2024.</h3>
 
-### 🔭 I’m currently working on **my portfolio**
+### 🔭 I’m currently working on **SoundWave**, a website that help every kind of music crew to promote their events in France.
 
-## 👨‍💻 My projects are :
+### 📚 I’m currently learning React, Javascript, Node.js and Express at Wild Code School Paris
+
+## 👨‍💻 You can have a look to my projects :
 
 - **Les Recettes Wild :** https://github.com/emmanuelle-c/Les-recettes-Wild
 - **The Hero Experience :** https://github.com/emmanuelle-c/Les4Fantastiques
