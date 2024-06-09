@@ -5,12 +5,9 @@
 
 <h3 align="left">👨‍💻 My projects are : </h3>
 
-- <p align="left">Les Recettes Wild : </p>
-<a href="https://github.com/emmanuelle-c/Les-recettes-Wild" target="blank"></a>
-- <p align="left">The Hero Experience : </p>
-<a href="https://github.com/emmanuelle-c/Les4Fantastiques" target="blank"></a>
-- <p align="left">Out : </p>
-<a href="https://github.com/emmanuelle-c/OUT" target="blank"></a>
+- <p align="left">Les Recettes Wild : </p> https://github.com/emmanuelle-c/Les-recettes-Wild
+- <p align="left">The Hero Experience : </p> https://github.com/emmanuelle-c/Les4Fantastiques
+- <p align="left">Out : </p> https://github.com/emmanuelle-c/OUT
 
 - 📫 How to reach me **emmanuelle.curiant@gmail.com**
 
