@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Emmanuelle !</h1>
 <h3 align="center">A passionate FullStack student developer from France.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelle-c" alt="emmanuelle-c" /></a> </p>
-
 - 🔭 I’m currently working on **my portfolio**
+- 👨‍💻 My projects are :
+<p align="left">Les Recettes Wild : 
+<a href="https://github.com/emmanuelle-c/Les-recettes-Wild" target="blank"></a>
+</p>
+<p align="left">The Hero Experience : 
+<a href="https://github.com/emmanuelle-c/Les4Fantastiques" target="blank"></a>
+</p>
+<p align="left">Out : 
+<a href="https://github.com/emmanuelle-c/OUT" target="blank"></a>
+</p>
 
 - 📫 How to reach me **emmanuelle.curiant@gmail.com**
 
@@ -17,6 +25,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelle-c&show_icons=true&locale=en&layout=compact" alt="emmanuelle-c" /></p>
 
+<h3 align="left">My GitHub statistics :</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelle-c&show_icons=true&locale=en" alt="emmanuelle-c" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelle-c&" alt="emmanuelle-c" /></p>
+
+<h3 align="left">My GitHub Trophies :</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelle-c" alt="emmanuelle-c" /></a> </p>
