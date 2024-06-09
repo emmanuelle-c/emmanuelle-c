@@ -2,16 +2,15 @@
 <h3 align="center">A passionate FullStack student developer from France.</h3>
 
 - 🔭 I’m currently working on **my portfolio**
-- 👨‍💻 My projects are :
-<p align="left">Les Recettes Wild : 
+
+<h3 align="left">👨‍💻 My projects are : </h3>
+
+- <p align="left">Les Recettes Wild : </p>
 <a href="https://github.com/emmanuelle-c/Les-recettes-Wild" target="blank"></a>
-</p>
-<p align="left">The Hero Experience : 
+- <p align="left">The Hero Experience : </p>
 <a href="https://github.com/emmanuelle-c/Les4Fantastiques" target="blank"></a>
-</p>
-<p align="left">Out : 
+- <p align="left">Out : </p>
 <a href="https://github.com/emmanuelle-c/OUT" target="blank"></a>
-</p>
 
 - 📫 How to reach me **emmanuelle.curiant@gmail.com**
 
