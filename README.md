@@ -5,7 +5,7 @@
 
 📚 I’m currently learning **React**, **Javascript**, **Node.js** and **Express** at *Wild Code School Paris*.
 
-## 👨‍💻 You can have a look to my projects :
+## 👨‍💻 You can have a look at my projects :
 
 - **Les Recettes Wild :** https://github.com/emmanuelle-c/Les-recettes-Wild
 - **The Hero Experience :** https://github.com/emmanuelle-c/The-Hero-Experience
